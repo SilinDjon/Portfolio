@@ -1,0 +1,12 @@
+.remoteWork {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid blue;
+    min-height: 200px;
+    background-color: darksalmon;
+}
+
+.button {
+    height: 50px;
+    width: 100px;
+}

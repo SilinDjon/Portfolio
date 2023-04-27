@@ -1,0 +1,19 @@
+.contacts {
+    min-height: 50vh;
+    flex-direction: column;
+    border: 1px solid blue;
+    background-color: moccasin;
+}
+
+.button {
+    height: 50px;
+    width: 100px;
+}
+
+.form {
+    min-width: 500px;
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
